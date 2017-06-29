@@ -39,7 +39,7 @@ Hinnom：
 Kohen和Ba'al的吃人属性减半
 
 Rlyeh：
-Mind vessel的宝石消耗从15s改为5s。
+Mind vessel的宝石消耗从15s改为7s。
 
 Therodos：
 取消Kourete的每月招募数量限制。
